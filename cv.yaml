@@ -1,0 +1,89 @@
+cv:
+  name: Saray Alexandra Martinez
+  email: sarayalexandra.martinez@gmail.com
+  phone: "+52 443-213-5785"
+  social_networks:
+    - network: GitHub
+      username: Saristeidyn
+    - network: LinkedIn
+      username: saray-martinez-sam
+
+  sections:
+
+    education:
+      - institution: La Salle Bajío
+        area: Bachelor of Science in Software Engineering and Computer Science
+        start_date: 2022-02
+        end_date: 2026-12
+        location: León, Guanajuato
+
+      - institution: Collins Hill High School
+        area: High School Diploma
+        location: Lawrenceville, GA
+
+    experience:
+      - company: Once Upon a Child
+        position: Sales Associate
+        location: Lawrenceville, GA
+        start_date: 2020-12
+        end_date: 2021-02
+        highlights:
+          - Managed cash register operations and handled daily transactions accurately
+          - Developed strong communication and problem-solving skills in a fast-paced retail environment
+          - Collaborated with team members to meet monthly sales goals
+          - Assisted customers in product selection, improving satisfaction and sales performance
+
+      - company: McDonald's
+        position: Crew Member / Server
+        location: Lawrenceville, GA
+        start_date: 2019-11
+        end_date: 2020-08
+        highlights:
+          - Worked in high-pressure environments while maintaining efficiency and accuracy
+          - Handled customer orders, payments, and service issues professionally
+          - Coordinated with kitchen staff to ensure timely order delivery
+          - Trained new employees in customer service and operational procedures
+
+    projects:
+    - name: Fairy Tail Calculator
+      url: https://github.com/dev-dungeon-run/FairyTail_calculator
+      highlights:
+        - Developed a themed calculator application with dynamic UI switching
+        - Implemented a toggle feature to switch between "Knight" and "Princess" themes
+        - Designed interactive visual elements to enhance user experience
+        - Focused on UI customization and responsive design
+
+    - name: Toon Café
+      url: https://github.com/dev-dungeon-run/Toon-Cafe
+      highlights:
+        - Designed and developed a multi-page web application using Angular and TypeScript
+        - Built dynamic pages for shows and movies with filtering and scheduling features
+        - Implemented filtering logic for showtimes and content categories
+        - Structured the application using Angular components, services, and routing
+        - Focused on clean UI design and user-friendly navigation
+
+    skills:
+      - label: Programming Languages
+        details: Python, Java, JavaScript, HTML, CSS
+      - label: Tools
+        details: Git, GitHub, MySQL, VS Code
+      - label: Databases
+        details: MariaDB/MySQL, MongoDB Atlas, Azure DB
+      - label: Frameworks & Software
+        details: Linux, Android Studio, MAUI, Swift, Angular
+      - label: Design Tools
+        details: Adobe Photoshop, Adobe Animate, Adobe Illustrator
+
+    languages:
+      - label: English
+        details: Native/Bilingual
+      - label: Spanish
+        details: Fluent/Advanced
+      - label: French
+        details: Beginner
+
+    additional_information:
+      - label: Interests
+        details: Learning languages (French), art, horror films & psychological thrillers
+      - label: Strengths
+        details: Adaptable, fast learner, bilingual environments
