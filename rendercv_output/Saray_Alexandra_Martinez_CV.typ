@@ -6,7 +6,7 @@
   name: "Saray Alexandra Martinez",
   title: "Saray Alexandra Martinez - CV",
   footer: context { [#emph[Saray Alexandra Martinez -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Mar 2026] ],
+  top-note: [ #emph[Last updated in May 2026] ],
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
@@ -80,8 +80,8 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 3,
-    day: 22,
+    month: 5,
+    day: 10,
   ),
 )
 
@@ -159,7 +159,7 @@
   [
     #strong[McDonald's], Crew Member \/ Server
 
-    - Worked in high-pressure environments while maintaining efficiency and accuracy
+    - Worked efficiently in high-pressure environments while maintaining accuracy
 
     - Handled customer orders, payments, and service issues professionally
 
@@ -184,15 +184,17 @@
 
 #regular-entry(
   [
-    #strong[Fairy Tail Calculator]
+    #strong[Personal Resume Website]
 
-    - Developed a themed calculator application with dynamic UI switching
+    - Developed a personal portfolio website using React
 
-    - Implemented a toggle feature to switch between \"Knight\" and \"Princess\" themes
+    - Created a dedicated resume page showcasing education, skills, and experience
 
-    - Designed interactive visual elements to enhance user experience
+    - Built a projects page to highlight software development work
 
-    - Focused on UI customization and responsive design
+    - Designed responsive layouts and interactive UI components
+
+    - Focused on clean design and user-friendly navigation
 
   ],
   [
@@ -201,17 +203,15 @@
 
 #regular-entry(
   [
-    #strong[Toon Café]
+    #strong[Flappy Bird Clone]
 
-    - Designed and developed a multi-page web application using Angular and TypeScript
+    - Developed a Flappy Bird-inspired game using Unity
 
-    - Built dynamic pages for shows and movies with filtering and scheduling features
+    - Implemented player movement mechanics and collision detection
 
-    - Implemented filtering logic for showtimes and content categories
+    - Created obstacle spawning systems and score tracking features
 
-    - Structured the application using Angular components, services, and routing
-
-    - Focused on clean UI design and user-friendly navigation
+    - Designed gameplay logic for restart conditions and game flow
 
   ],
   [
@@ -222,13 +222,17 @@
 
 #strong[Programming Languages:] Python, Java, JavaScript, HTML, CSS
 
+#strong[Game Development:] Unity
+
+#strong[Testing:] Cypress, Jest, Playwright
+
 #strong[Tools:] Git, GitHub, MySQL, VS Code
 
 #strong[Databases:] MariaDB\/MySQL, MongoDB Atlas, Azure DB
 
-#strong[Frameworks & Software:] Linux, Android Studio, MAUI, Swift, Angular
+#strong[Frameworks & Software:] Linux, Android Studio, MAUI, Swift, Angular, React
 
-#strong[Design Tools:] Adobe Photoshop, Adobe Animate, Adobe Illustrator
+#strong[Design Tools:] Adobe Photoshop, Adobe Animate, Adobe Illustrator, Autodesk Maya
 
 == Languages
 
@@ -242,4 +246,4 @@
 
 #strong[Interests:] Learning languages (French), art, horror films & psychological thrillers
 
-#strong[Strengths:] Adaptable, fast learner, bilingual environments
+#strong[Strengths:] Adaptable, fast learner, thrives in bilingual environments

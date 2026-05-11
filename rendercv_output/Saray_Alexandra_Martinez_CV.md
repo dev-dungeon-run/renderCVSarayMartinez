@@ -59,7 +59,7 @@ Nov 2019 – Aug 2020
 
 10 months
 
-- Worked in high-pressure environments while maintaining efficiency and accuracy
+- Worked efficiently in high-pressure environments while maintaining accuracy
 
 - Handled customer orders, payments, and service issues professionally
 
@@ -70,42 +70,46 @@ Nov 2019 – Aug 2020
 
 
 # Projects
-## **Fairy Tail Calculator**
+## **Personal Resume Website**
 
-- Developed a themed calculator application with dynamic UI switching
+- Developed a personal portfolio website using React
 
-- Implemented a toggle feature to switch between "Knight" and "Princess" themes
+- Created a dedicated resume page showcasing education, skills, and experience
 
-- Designed interactive visual elements to enhance user experience
+- Built a projects page to highlight software development work
 
-- Focused on UI customization and responsive design
+- Designed responsive layouts and interactive UI components
+
+- Focused on clean design and user-friendly navigation
 
 
 
-## **Toon Café**
+## **Flappy Bird Clone**
 
-- Designed and developed a multi-page web application using Angular and TypeScript
+- Developed a Flappy Bird-inspired game using Unity
 
-- Built dynamic pages for shows and movies with filtering and scheduling features
+- Implemented player movement mechanics and collision detection
 
-- Implemented filtering logic for showtimes and content categories
+- Created obstacle spawning systems and score tracking features
 
-- Structured the application using Angular components, services, and routing
-
-- Focused on clean UI design and user-friendly navigation
+- Designed gameplay logic for restart conditions and game flow
 
 
 
 # Skills
 **Programming Languages:** Python, Java, JavaScript, HTML, CSS
 
+**Game Development:** Unity
+
+**Testing:** Cypress, Jest, Playwright
+
 **Tools:** Git, GitHub, MySQL, VS Code
 
 **Databases:** MariaDB/MySQL, MongoDB Atlas, Azure DB
 
-**Frameworks & Software:** Linux, Android Studio, MAUI, Swift, Angular
+**Frameworks & Software:** Linux, Android Studio, MAUI, Swift, Angular, React
 
-**Design Tools:** Adobe Photoshop, Adobe Animate, Adobe Illustrator
+**Design Tools:** Adobe Photoshop, Adobe Animate, Adobe Illustrator, Autodesk Maya
 
 # Languages
 **English:** Native/Bilingual
@@ -117,4 +121,4 @@ Nov 2019 – Aug 2020
 # Additional Information
 **Interests:** Learning languages (French), art, horror films & psychological thrillers
 
-**Strengths:** Adaptable, fast learner, bilingual environments
+**Strengths:** Adaptable, fast learner, thrives in bilingual environments
