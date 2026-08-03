@@ -81,11 +81,18 @@
   date: datetime(
     year: 2026,
     month: 5,
-    day: 10,
+    day: 11,
   ),
 )
 
 
+#grid(
+  columns: (auto, 1fr),
+  column-gutter: 0cm,
+  align: horizon + left,
+  [#pad(left: 0.4cm, right: 0.4cm, image("qr.jpeg", width: 3.5cm))
+],
+  [
 = Saray Alexandra Martinez
 
 #connections(
@@ -93,6 +100,8 @@
   [#link("tel:+52-443-213-5785", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[443 213 5785]]],
   [#link("https://github.com/Saristeidyn", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[Saristeidyn]]],
   [#link("https://linkedin.com/in/saray-martinez-sam", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[saray-martinez-sam]]],
+)
+  ]
 )
 
 

@@ -2,6 +2,7 @@ cv:
   name: Saray Alexandra Martinez
   email: sarayalexandra.martinez@gmail.com
   phone: "+52 443-213-5785"
+  photo: ./qr/qr.jpeg
 
   social_networks:
     - network: GitHub
