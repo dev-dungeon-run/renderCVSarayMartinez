@@ -24,6 +24,14 @@ cv:
         location: Lawrenceville, GA
 
     experience:
+      - company: Soulft
+        position: Software Developer (Remote)
+        start_date: 2026-05-13
+        end_date: 2026-11-13
+        highlights:
+          - Supported the company’s web applications by troubleshooting and resolving bugs
+          - Implemented feature enhancements to improve application functionality
+
       - company: Once Upon a Child
         position: Sales Associate
         location: Lawrenceville, GA
